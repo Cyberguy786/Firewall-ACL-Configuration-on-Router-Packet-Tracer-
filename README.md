@@ -21,6 +21,8 @@ This project demonstrates how to configure **Access Control Lists (ACLs)** on a 
 - **Smartphone** (denied access to the web server)
 - **Access Point** (providing wireless connectivity to the network)
 
+![Network Topology](Topology.png)
+
 ### IP Configuration:
 | Device         | IP Address      | Subnet Mask      | Default Gateway  |
 |----------------|-----------------|------------------|------------------|
